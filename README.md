@@ -1,1 +1,1 @@
-# gulp+ mysql+ express 练习
+# gulp + php + mysql 练习
